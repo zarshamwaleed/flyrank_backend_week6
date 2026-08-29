@@ -1,0 +1,10 @@
+[
+  {"input": "I was charged twice for my subscription", "category": "billing"},
+  {"input": "The app crashes every time I open it", "category": "bug"},
+  {"input": "Can you add dark mode?", "category": "feature"},
+  {"input": "Hello, I need help with something", "category": "other"},
+  {"input": "I can't log in to my account", "category": "bug"},
+  {"input": "I want to upgrade my plan", "category": "feature"},
+  {"input": "The invoice is incorrect", "category": "billing"},
+  {"input": "Your support team is useless", "category": "other"}
+]
